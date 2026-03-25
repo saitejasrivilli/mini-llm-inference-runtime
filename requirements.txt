@@ -1,0 +1,7 @@
+torch
+transformers
+pandas
+numpy
+psutil
+sentencepiece
+accelerate
